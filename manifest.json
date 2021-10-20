@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Highlight Site",
+    "action": {
+        "default_popup": "extention.html",
+        "default_icon": "highlighter.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

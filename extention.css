@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+    background-image: url("wall.jpg");
+    background-size: cover;
+    
+    
+    
+}
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: solid grey 1px;
+    margin-bottom: 4px;
+   
+}
+button{
+    padding: 6px 10px;
+    background-color: grey;
+    border:solid 1px  grey;
+    font-weight: bold;
+    color: white;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+    margin-top: 20px;
+}
+a{
+    color: black;
+}
+li{
+    margin-top: 10px;
+}
+#delete-button{
+    background-color: white;
+    color:  grey;
+}
